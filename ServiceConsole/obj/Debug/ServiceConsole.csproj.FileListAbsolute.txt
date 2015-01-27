@@ -1,0 +1,38 @@
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\ServiceConsole.exe.config
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\ServiceConsole.exe
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\ServiceConsole.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\AutoTests.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\obj\Debug\ServiceConsole.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\obj\Debug\ServiceConsole.exe
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\obj\Debug\ServiceConsole.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\FastColoredTextBox.dll
+C:\Users\Vladimir\Desktop\AutoTests\ServiceConsole\bin\Debug\FastColoredTextBox.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\ServiceConsole.exe.config
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\obj\Debug\ServiceConsole.exe
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\obj\Debug\ServiceConsole.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\ServiceConsole.exe
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\ServiceConsole.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\FastColoredTextBox.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\AutoTests.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\FastColoredTextBox.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceConsole\obj\Debug\ServiceConsole.csprojResolveAssemblyReference.cache

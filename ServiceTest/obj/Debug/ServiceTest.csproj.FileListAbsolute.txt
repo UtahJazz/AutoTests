@@ -1,0 +1,10 @@
+C:\Users\Vladimir\Desktop\AutoTests\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\Vladimir\Desktop\AutoTests\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\Vladimir\Desktop\AutoTests\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\Vladimir\Desktop\AutoTests\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\Vladimir\Desktop\AutoTests\ServiceTest\obj\Debug\ServiceTest.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\ServiceTest\obj\Debug\ServiceTest.pdb

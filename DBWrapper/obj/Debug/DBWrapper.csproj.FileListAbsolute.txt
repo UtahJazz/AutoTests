@@ -1,0 +1,23 @@
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\obj\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests\DBWrapper\obj\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\obj\Debug\DBWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\obj\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\DBWrapper\obj\Debug\DBWrapper.pdb

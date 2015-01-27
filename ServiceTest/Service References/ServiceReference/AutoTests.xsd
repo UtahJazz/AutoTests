@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/AutoTests" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/AutoTests" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="User" nillable="true" type="tns:User" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUser" nillable="true" type="tns:ArrayOfUser" />
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserRights" nillable="true" type="xs:short" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="User" nillable="true" type="tns:User" />
+  <xs:complexType name="ArrayOfTestSet">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TestSet" nillable="true" type="tns:TestSet" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTestSet" nillable="true" type="tns:ArrayOfTestSet" />
+  <xs:complexType name="TestSet">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Complexity" nillable="true" type="xs:short" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TestSet" nillable="true" type="tns:TestSet" />
+  <xs:complexType name="ArrayOfTest">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Test" nillable="true" type="tns:Test" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTest" nillable="true" type="tns:ArrayOfTest" />
+  <xs:complexType name="Test">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Answer" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Complexity" nillable="true" type="xs:short" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="TestSets" nillable="true" type="tns:ArrayOfTestSet" />
+      <xs:element minOccurs="0" name="Text" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Test" nillable="true" type="tns:Test" />
+</xs:schema>

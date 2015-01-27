@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTests", "AutoTests\AutoTests.csproj", "{1D955339-45F8-4084-AB17-F682B3ABAAC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBWrapper", "DBWrapper\DBWrapper.csproj", "{9110A92A-FD83-47A3-885D-F4671F3D1EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConsole", "ServiceConsole\ServiceConsole.csproj", "{FDAAF1FF-897F-435C-AD90-CF1A0638E2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestManager", "..\TestManager\TestManager\TestManager.csproj", "{F7909CAF-79E2-4D23-8DCE-45D59EB78858}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4} = {1D955339-45F8-4084-AB17-F682B3ABAAC4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTest", "ServiceTest\ServiceTest.csproj", "{ED5134D8-ADEF-4390-8777-DD4C9A9A4210}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4} = {1D955339-45F8-4084-AB17-F682B3ABAAC4}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBWrapperTest", "DBWrapperTest\DBWrapperTest.csproj", "{AF2E81DC-375F-4D2F-BE4E-7CB37533346E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D955339-45F8-4084-AB17-F682B3ABAAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9110A92A-FD83-47A3-885D-F4671F3D1EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9110A92A-FD83-47A3-885D-F4671F3D1EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9110A92A-FD83-47A3-885D-F4671F3D1EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9110A92A-FD83-47A3-885D-F4671F3D1EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAAF1FF-897F-435C-AD90-CF1A0638E2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAAF1FF-897F-435C-AD90-CF1A0638E2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAAF1FF-897F-435C-AD90-CF1A0638E2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAAF1FF-897F-435C-AD90-CF1A0638E2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7909CAF-79E2-4D23-8DCE-45D59EB78858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7909CAF-79E2-4D23-8DCE-45D59EB78858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7909CAF-79E2-4D23-8DCE-45D59EB78858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7909CAF-79E2-4D23-8DCE-45D59EB78858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5134D8-ADEF-4390-8777-DD4C9A9A4210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5134D8-ADEF-4390-8777-DD4C9A9A4210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5134D8-ADEF-4390-8777-DD4C9A9A4210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5134D8-ADEF-4390-8777-DD4C9A9A4210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2E81DC-375F-4D2F-BE4E-7CB37533346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2E81DC-375F-4D2F-BE4E-7CB37533346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2E81DC-375F-4D2F-BE4E-7CB37533346E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2E81DC-375F-4D2F-BE4E-7CB37533346E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

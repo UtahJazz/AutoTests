@@ -1,0 +1,30 @@
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\AutoTests.dll.config
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\AutoTests.pdb
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\obj\Debug\AutoTests.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\obj\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\obj\Debug\AutoTests.pdb
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests\AutoTests\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\AutoTests.dll.config
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\AutoTests.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\DBWrapper.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\NHibernate.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\DBWrapper.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\FluentNHibernate.pdb
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\bin\Debug\NHibernate.xml
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\obj\Debug\AutoTests.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\obj\Debug\AutoTests.dll
+C:\Users\Vladimir\Desktop\AutoTests 1.0.0\AutoTests\obj\Debug\AutoTests.pdb
